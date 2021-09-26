@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BT-Jack
+- 👋 Hi, I’m ST-Jack
 - 👀 I’m interested in python/C++/ML/CV
 - 🌱 I’m currently learning python/C++/ML/CV
 - 💞️ I’m looking to collaborate on myself
